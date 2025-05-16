@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "812436920337",
+    "project_id": "smart-genie-app",
+    "storage_bucket": "smart-genie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812436920337:android:05a06bcd4ce4cad85379b0",
+        "android_client_info": {
+          "package_name": "com.example.my_smart_genie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812436920337-85o27f2aqqpbaiv9ncevqbnb2ldnbaq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_smart_genie",
+            "certificate_hash": "8039233285932ef5e6ef4a7ed418b6a5b73c24fc"
+          }
+        },
+        {
+          "client_id": "812436920337-2bv7dtjekojsvkhejpjtf188adlulbg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahUVmv_ORZq-v9hjKVvKTG1_HjK1queE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812436920337-2bv7dtjekojsvkhejpjtf188adlulbg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812436920337-frfug8v819kkttu5pjlsvfqntp7b7brf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mySmartGenie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
