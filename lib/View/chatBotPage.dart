@@ -212,7 +212,7 @@ class _ChatScreenState extends State<ChatScreen> {
 ];
 
 
-  final String apiKey = "AIzaSyDOm0XxVmsVDz-RV7jjrgcli3nAdJuDfWY";
+  final String apiKey = "";
   final TextEditingController _controller = TextEditingController();
   List<Map<String, dynamic>> _messages = [];
   late String base64File;
@@ -357,7 +357,7 @@ var imageMessageForDownload;
  
   // final String api_Key = 'sk-QzM3f8cQ3Lwc7n4CbrRRHJQtOdBDHfKfNcM9ULpPyKc2MVLp'; // Use your API key here
   // final String api_Key = 'sk-oMxyvhsfoA7oqYCVIa5wYwXVBYP1e6TRuf1whMI5rpDl4NtV'; // Use your API key here
-  final String api_Key = 'sk-oQZpxrvDhPvy9h7iT4jjLCtmlb6qpFd9QfLXx0Bn84K20NQJ'; // Use your API key here
+  final String api_Key = ''; // Use your API key here
   final String apiHost = 'https://api.stability.ai';
   final String engineId = 'stable-diffusion-v1-6'; // Check the correct engine ID if different
 // for stability ai
