@@ -80,7 +80,7 @@ class SignUpView extends StatelessWidget {
                 ),
                 myText(context, "Password", MyColors.userTextColor, 18, 0.09, 0.035),
 
-                // Password Field with validation
+           
                 Obx(
                   () => Container(
                     width: MediaQuery.sizeOf(context).width * 0.8,

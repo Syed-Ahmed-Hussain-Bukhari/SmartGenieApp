@@ -86,11 +86,11 @@ class GoogleAuthController extends GetxController {
       ),
       
       snackPosition: SnackPosition.BOTTOM,
-      margin: EdgeInsets.all(10), // Margin for spacing around the snackbar
+      margin: EdgeInsets.all(10),
       colorText: MyColors.whiteColor,
       backgroundColor: MyColors.mainColor,
-      borderRadius: 20, // Roundness of the snackbar corners
-      snackStyle: SnackStyle.FLOATING, // Makes the snackbar float above the content
+      borderRadius: 20, 
+      snackStyle: SnackStyle.FLOATING,
     )
       );
 
